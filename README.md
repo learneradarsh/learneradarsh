@@ -1,4 +1,19 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges">
+  <a href="https://linkedin.com/in/learneradarsh/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/learneradarsh">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+<img src="https://komarev.com/ghpvc/?username=learneradarsh&style=flat-square&color=blue" alt=""/>
+
+
+
+### Hi there, I am Adarsh 👋
 
 I have 3.5+ years of experience in development of scalable and robust front-end systems using Angular, React, Next.Js, Redux, RxJs, Typescript, Material UI, Jest, React testing library, Angular Testing Library, Cypress, AWS, and other essential practices like web accessibility and SEO.
 
@@ -40,10 +55,6 @@ My keen interest areas are:
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=learneradarsh&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=learneradarsh)](https://github.com/learneradarsh/github-readme-stats)
 
 
 
