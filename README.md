@@ -1,16 +1,47 @@
 ### Hi there 👋
 
-<!--
-**learneradarsh/learneradarsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I have 3.5+ years of experience in development of scalable and robust front-end systems using Angular, React, Next.Js, Redux, RxJs, Typescript, Material UI, Jest, React testing library, Angular Testing Library, Cypress, AWS, and other essential practices like web accessibility and SEO.
 
-Here are some ideas to get you started:
+ I have also tried my hands on Node.Js, Express, DynamoDB, Mysql to deploy my personal projects end to end by building CI/CD pipeline using AWS codepipeline and other services.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+Tools/Technologies/Libraries/Practices I have played with and followed during my career till now:
+1. Angular
+2. React
+3. Next.Js
+4. Python
+5. Unit Testing Frameworks like React Testing Library, Jest, Angular Testing Library, and many others.
+6. Github, Gitlab, Bitbucket, Gerrit, and Git.
+7. Node.js
+8. Php
+9. Express.js
+10. DynamoDB, MySQL
+11. Material UI, Bootstrap, and Materialize.css
+12. RxJs
+13. Typescript
+14. ES6
+15. Lambda
+16. Wordpress
+17. Jquery
+18. HTML5, CSS, and SCSS
+19. Google Lighthous
+20. Joomla
+21. TDD
+22. Docker
+23. Sonarqube
+
+My keen interest areas are:
+1. Algorithms and Data structures
+2. Frontend systems designing and architecture.
+3. Design patterns
+4. Augmented Reality
+5. Microfrontends
+
+
+### :fire: My Stats :
+
+
+Explore more:
+https://learneradarsh.github.io/
+
+
