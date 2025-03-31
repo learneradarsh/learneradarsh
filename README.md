@@ -15,7 +15,7 @@
 
 ### Hi there, I am Adarsh, here I'm talking about myself 👋
 
-I have 4+ years of experience in development of scalable and robust front-end systems using Angular, React, Next.Js, Redux, RxJs, Typescript, Material UI, Jest, React testing library, Angular Testing Library, Cypress, AWS, and other essential practices like web accessibility and SEO.
+I have 7+ years of experience in development of scalable and robust front-end systems using Angular, React, Next.Js, Redux, RxJs, Typescript, Material UI, Jest, React testing library, Angular Testing Library, Cypress, AWS, and other essential practices like web accessibility and SEO.
 
  I have also tried my hands on Node.Js, Express, DynamoDB, Mysql to deploy my personal projects end to end by building CI/CD pipeline using AWS codepipeline and other services.
 
